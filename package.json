@@ -1,0 +1,19 @@
+{
+  "name": "ci-github",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:integration": "jest tests/integration"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.16.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
